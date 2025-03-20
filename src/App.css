@@ -1,0 +1,16 @@
+/* App-specific styles */
+.container {
+  min-height: 100vh;
+  transition: background-color 0.3s ease;
+}
+
+.container.dark {
+  background-color: var(--dark-bg);
+}
+
+main {
+  width: 100%;
+  max-width: 730px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+} 
