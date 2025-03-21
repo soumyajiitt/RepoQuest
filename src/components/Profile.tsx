@@ -46,11 +46,11 @@ const Profile = ({ user }: ProfileProps) => {
 
         <div className="profile-bottom-wrapper">
           <div className="profile-info">
-            <img src="./assets/placeholder.png" alt="location" />
+            <img src="../../public/assets/placeholder (1).png" alt="location" />
             <p>{user.location || 'Not Available'}</p>
           </div>
           <div className="profile-info">
-            <img src="./assets/link.png" alt="website" />
+            <img src="../../public/assets/link.png" alt="website" />
             {user.blog ? (
               <a href={user.blog} target="_blank" rel="noopener noreferrer">{user.blog}</a>
             ) : (
@@ -58,7 +58,7 @@ const Profile = ({ user }: ProfileProps) => {
             )}
           </div>
           <div className="profile-info">
-            <img src="./assets/twitter.png" alt="twitter" />
+            <img src="../../public/assets/twitter.png" alt="twitter" />
             {user.twitter_username ? (
               <a href={`https://twitter.com/${user.twitter_username}`} target="_blank" rel="noopener noreferrer">
                 @{user.twitter_username}
@@ -68,7 +68,7 @@ const Profile = ({ user }: ProfileProps) => {
             )}
           </div>
           <div className="profile-info">
-            <img src="./assets/business-and-trade.png" alt="company" />
+            <img src="../../public/assets/business-and-trade.png" alt="company" />
             <p>{user.company || 'Not Available'}</p>
           </div>
         </div>
