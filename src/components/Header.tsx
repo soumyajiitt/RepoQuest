@@ -10,7 +10,7 @@ const Header = ({ darkMode, toggleDarkMode }: HeaderProps) => {
       <div className="mode-toggle" onClick={toggleDarkMode}>
         <p>{darkMode ? 'LIGHT' : 'DARK'}</p>
         <img 
-          src={darkMode ? './assets/icon-sun.svg' : './assets/icon-moon.svg'} 
+          src={darkMode ? '../../assets/icon-sun.svg' : '../../assets/icon-moon.svg'} 
           alt={darkMode ? 'light mode' : 'dark mode'} 
         />
       </div>
