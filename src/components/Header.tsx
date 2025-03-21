@@ -6,7 +6,7 @@ interface HeaderProps {
 const Header = ({ darkMode, toggleDarkMode }: HeaderProps) => {
   return (
     <header className="header">
-      <h1 className="title">devfinder</h1>
+      <h1 className="title">RepoQuest</h1>
       <div className="mode-toggle" onClick={toggleDarkMode}>
         <p>{darkMode ? 'LIGHT' : 'DARK'}</p>
         <img 
