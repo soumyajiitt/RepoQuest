@@ -18,7 +18,7 @@ const SearchBar = ({ onSearch, error }: SearchBarProps) => {
   return (
     <form className="searchbar-container" onSubmit={handleSubmit}>
       <div className="search-input-wrapper">
-        <img src="../../public/assets/icon-search.svg" alt="search" />
+        <img src="./assets/icon-search.svg" alt="search" />
         <input
           type="text"
           placeholder="Search GitHub username..."
