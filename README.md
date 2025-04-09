@@ -69,3 +69,27 @@ git clone https://github.com/yourusername/RepoQuest.git
 cd RepoQuest
 npm install
 npm start
+```
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo, make improvements, and submit a pull request.
+
+---
+
+## 👤 Author
+
+**Soumyajit Basak** <br/>
+📍 Bengaluru, India <br/>
+🌐 [Portfolio](https://soumyajitbasak.netlify.app/) <br/>
+🏢 EXA AG (Acquired by SNP Group)
+
+---
+
+## ⭐ Show Some Love
+
+If you found this useful or inspiring, please consider giving this repo a ⭐ <br/>
+Your support motivates continued development!
+
+
