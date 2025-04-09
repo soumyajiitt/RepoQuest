@@ -1,6 +1,6 @@
 # 🚀 RepoQuest 🔍
 
-![RepoQuest Banner](./image.png)
+![RepoQuest Banner](./sample.png)
 
 Welcome to **RepoQuest** – your minimalist and elegant GitHub user search tool! 🎯  
 Easily find any GitHub user's profile, explore their repositories, and get a snapshot of their dev journey — all in one sleek interface.
@@ -50,7 +50,7 @@ Easily find any GitHub user's profile, explore their repositories, and get a sna
 
 Here’s a preview of the interface:
 
-![Sample Screenshot](./image.png)
+![Sample Screenshot](./sample.png)
 
 ---
 
