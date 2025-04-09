@@ -42,7 +42,7 @@ Easily find any GitHub user's profile, explore their repositories, and get a sna
 
 ## 🔗 Live Demo
 
-👉 [Try RepoQuest Live](https://soumyajitbasak.netlify.app/)
+👉 [Try RepoQuest Live](https://repoquest.vercel.app/)
 
 ---
 
