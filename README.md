@@ -68,7 +68,7 @@ Clone the repository and run it locally:
 git clone https://github.com/yourusername/RepoQuest.git
 cd RepoQuest
 npm install
-npm start
+npm run dev
 ```
 
 ## 🤝 Contributing
